@@ -1,5 +1,4 @@
 # Toxic Comment Classifier
-# Toxic Comment Classifier
 
 A deep learning project for multi-label toxic comment classification using the Jigsaw Toxic Comment dataset.
 
